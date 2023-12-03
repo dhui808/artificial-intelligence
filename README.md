@@ -30,15 +30,14 @@ artificial intelligence, machine learning, deep learning, generative AI
 	Destination Recommendations
 
 ### Resources
-	3:26 - Programming (Python)
-	5:09 - Git
-	6:16 - APIs
-	7:03 - Neural networks
-	8:56 - Neural network architectures
-	10:08 - Text embeddings & vector store
-	10:38 - Real-world projects
-	11:52 - Mental models & specializations
-	13:56 - Extra resources
+	Programming (Python)
+	Git
+	APIs
+	Neural networks
+	Neural network architectures
+	Text embeddings & vector store
+	Real-world projects
+	Mental models & specializations
 	
 	📖 Google Advanced Data Analytics Certificate 👉 https://imp.i384100.net/anK9zZ
 	📖 Google Data Analytics Certificate 👉 https://imp.i384100.net/15v9y6
