@@ -2,7 +2,7 @@
 artificial intelligence, machine learning, deep learning, generative AI  
 ![AI](images/ai-ml-dl-gai.png)
 
-## Generative AI Use Cases
+### Generative AI Use Cases
 	Image Synthesis.
 	Super-Resolution.
 	Image-To-Photo Translation.
@@ -28,3 +28,25 @@ artificial intelligence, machine learning, deep learning, generative AI
 	Supply Chain Management And Demand Forecasting
 	Identity Verification
 	Destination Recommendations
+
+### Resources
+	3:26 - Programming (Python)
+	5:09 - Git
+	6:16 - APIs
+	7:03 - Neural networks
+	8:56 - Neural network architectures
+	10:08 - Text embeddings & vector store
+	10:38 - Real-world projects
+	11:52 - Mental models & specializations
+	13:56 - Extra resources
+	
+	📖 Google Advanced Data Analytics Certificate 👉 https://imp.i384100.net/anK9zZ
+	📖 Google Data Analytics Certificate 👉 https://imp.i384100.net/15v9y6
+	📖 Learn SQL Basics for Data Science Specialization 👉 https://imp.i384100.net/AovPnJ
+	📖 Excel Skills for Business 👉 https://coursera.pxf.io/doPaoy
+	📖 Machine Learning Specialization 👉 https://imp.i384100.net/RyjykN
+	📖 Data Visualization with Tableau Specialization 👉https://imp.i384100.net/n15XWR
+	📖 Deep Learning Specialization 👉 https://imp.i384100.net/zavBA0
+	📖 Mathematics for Machine Learning and Data Science Specialization 👉 https://imp.i384100.net/LXK0gj
+	📖 Applied Data Science with Python 👉 https://imp.i384100.net/gbxOqv
+
