@@ -39,13 +39,3 @@ artificial intelligence, machine learning, deep learning, generative AI
 	Real-world projects
 	Mental models & specializations
 	
-	📖 Google Advanced Data Analytics Certificate 👉 https://imp.i384100.net/anK9zZ
-	📖 Google Data Analytics Certificate 👉 https://imp.i384100.net/15v9y6
-	📖 Learn SQL Basics for Data Science Specialization 👉 https://imp.i384100.net/AovPnJ
-	📖 Excel Skills for Business 👉 https://coursera.pxf.io/doPaoy
-	📖 Machine Learning Specialization 👉 https://imp.i384100.net/RyjykN
-	📖 Data Visualization with Tableau Specialization 👉https://imp.i384100.net/n15XWR
-	📖 Deep Learning Specialization 👉 https://imp.i384100.net/zavBA0
-	📖 Mathematics for Machine Learning and Data Science Specialization 👉 https://imp.i384100.net/LXK0gj
-	📖 Applied Data Science with Python 👉 https://imp.i384100.net/gbxOqv
-
