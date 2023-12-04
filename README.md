@@ -39,3 +39,6 @@ artificial intelligence, machine learning, deep learning, generative AI
 	Real-world projects
 	Mental models & specializations
 	
+### GAI 
+	Currently GAI merely summarizes mountains of text in creative ways.
+ 
